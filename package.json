@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "expo": "~47.0.12",
+    "expo-av": "~13.0.2",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-webview": "11.23.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
